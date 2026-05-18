@@ -118,4 +118,4 @@ My interests include:
 * Data Science Applications in Finance
 * Building interactive AI dashboards
 
-I aim to develop production-ready AI systems that solve real b
+I aim to develop production-ready AI systems that solve real business problems.
