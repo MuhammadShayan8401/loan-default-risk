@@ -26,6 +26,19 @@ Instead of focusing only on accuracy, this system minimizes **financial loss** b
 
 ---
 
+## 📂 Dataset Information
+
+This project uses the **Home Credit Default Risk Dataset**, a real-world financial dataset used for credit scoring and risk analysis.
+
+* 📊 Source: Kaggle Home Credit Default Risk Competition
+* 👥 Records: ~300,000+ loan applications
+* 🎯 Target: `TARGET` (1 = loan default, 0 = no default)
+* 🧾 Features: Applicant demographics, income, credit history, loan details, and external financial indicators
+
+⚠️ Note: The dataset is not included in this repository due to size constraints. It can be downloaded from Kaggle.
+
+---
+
 ## ⚙️ Key Features
 
 * 🔍 Exploratory Data Analysis (EDA)
@@ -105,4 +118,4 @@ My interests include:
 * Data Science Applications in Finance
 * Building interactive AI dashboards
 
-I aim to develop production-ready AI systems that solve real business problems.
+I aim to develop production-ready AI systems that solve real b
